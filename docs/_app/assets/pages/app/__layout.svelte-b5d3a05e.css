@@ -1,0 +1,1 @@
+.scroller{overflow-y:scroll;scroll-snap-type:y mandatory}.scroller>*{scroll-snap-align:start}
